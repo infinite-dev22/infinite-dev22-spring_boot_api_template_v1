@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpotyApiV1ApplicationTests {
+class SpringBootApiTemplateV1ApplicationTests {
 
     @Test
     void contextLoads() {
