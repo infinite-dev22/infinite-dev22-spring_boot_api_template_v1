@@ -20,11 +20,11 @@ This project provides a robust Spring Boot web API template equipped with the fo
 
 2. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/SpringBoot-API-Template-V1.git
+   git clone git remote add origin https://github.com/infinite-dev22/spring_boot_api_template_v1.git
 
 3. **Run the Application (using Gradle):**
    ```bash
-   cd SpringBoot-API-Template-V1
+   cd spring_boot_api_template_v1
    gradle bootRun
 
 4. **Access the API:**
